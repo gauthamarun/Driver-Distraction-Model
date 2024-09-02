@@ -26,7 +26,7 @@ The model achieves an accuracy of 87.44% on the 3MDAD dataset, outperforming exi
 ## Acknowledgments:
 This project was developed by a team of students from the School of Computer Science and Engineering at Vellore Institute of Technology, and was recently accepted at Bennett University Global AI Summit.
 
-##Dataset References
+## Dataset References
 
 Imen Jegham, Anouar Ben Khalifa, Ihsen Alouani, Mohamed Ali Mahjoub, A novel public dataset for multimodal multiview and multispectral driver distraction analysis: 3MDAD, Signal Processing: Image Communication, Volume 88, October 2020, 115966, DOI: https://doi.org/10.1016/j.image.2020.115960.
 
