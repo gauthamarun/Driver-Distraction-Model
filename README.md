@@ -24,4 +24,10 @@ The model achieves an accuracy of 87.44% on the 3MDAD dataset, outperforming exi
 4. Test the model using the provided dataset or your custom dataset.
 
 ## Acknowledgments:
-This project was developed by a team of students from the School of Computer Science and Engineering at Vellore Institute of Technology, and was presented in a research paper accepted at Bennett University Global AI Summit.
+This project was developed by a team of students from the School of Computer Science and Engineering at Vellore Institute of Technology, and was recently accepted at Bennett University Global AI Summit.
+
+##Dataset References
+
+Imen Jegham, Anouar Ben Khalifa, Ihsen Alouani, Mohamed Ali Mahjoub, A novel public dataset for multimodal multiview and multispectral driver distraction analysis: 3MDAD, Signal Processing: Image Communication, Volume 88, October 2020, 115966, DOI: https://doi.org/10.1016/j.image.2020.115960.
+
+Imen Jegham, Anouar Ben Khalifa, Ihsen ALOUANI, Mohamed Ali MAHJOUB, MDAD : A Multimodal and Multiview in-Vehicle Driver Action Dataset, In: Vento M., Percannella G. (eds) Computer Analysis of Images and Patterns. CAIP 2019. Lecture Notes in Computer Science, vol 11679. Springer, Cham, pp. 518-529.
