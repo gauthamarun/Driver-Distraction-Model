@@ -24,4 +24,4 @@ The model achieves an accuracy of 87.44% on the 3MDAD dataset, outperforming exi
 4. Test the model using the provided dataset or your custom dataset.
 
 ## Acknowledgments:
-This project was developed by a team of students from the School of Computer Science and Engineering at Vellore Institute of Technology, and was presented in a research paper accepted at [Conference Name].
+This project was developed by a team of students from the School of Computer Science and Engineering at Vellore Institute of Technology, and was presented in a research paper accepted at Bennett University Global AI Summit.
